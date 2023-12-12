@@ -8,7 +8,7 @@ const LinkSection = () => {
         <div>
             <h1 className="font-extrabold text-5xl text-center bg-gray-700  text-white p-5">Important Links</h1>
             <div className="lg:flex justify-center mt-20 gap-10">
-                <div className="flex justify-between gap-5 p-5 rounded items-center bg-base-100 shadow-xl">
+                <div className="flex justify-between gap-5 first-letter: p-5 rounded items-center bg-base-100 shadow-xl">
                     <div><img src={icon2} alt="" className='w-20 h-full' /></div>
                     <div className="">
                         <h2 className="card-title">My Git Hub Page</h2>
