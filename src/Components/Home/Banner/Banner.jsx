@@ -9,6 +9,7 @@ const Banner = () => {
                 <p className='font-medium text-4xl pb-10  '>Currently Available For <br /><span className='bg-gradient-to-r from-pink-400 via-blue-400 to-sky-400'> HIRE </span></p>
                 <h1 className='font-bold text-5xl'>Hi I am Mansor</h1>
                 <h1 className='font-extrabold text-7xl'>Junior Web Developer</h1>
+
             </div>
 
             <div className=''>
