@@ -14,7 +14,7 @@ const Skill = () => {
     return (
         <div className="pt-28">
             <h1 className="font-extrabold text-5xl text-center mt-2">Emerging MERN Stack Developer Crafting Innovative Web Solutions at the Beginner Level</h1>
-            <div className="grid grid-cols-2 mx-auto gap-5 justify-center p-10">
+            <div className="lg:grid grid-cols-2  mx-auto gap-5 justify-center p-10">
                 <div className="border-4 rounded-md m-5 p-5">
                     <Link to='https://react.dev/'><img src={react} alt="" className="w-24" /></Link>
                     <h1 className="font-bold text-xl">Front-end Development (React.js):</h1>

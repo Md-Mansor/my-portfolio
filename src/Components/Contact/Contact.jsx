@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <div className="pt-28">
             <h1 className="font-extrabold text-5xl text-center p-5">Let's Start Something</h1>
-            <div className="flex justify-center gap-5 p-10 items-center">
+            <div className="lg:flex justify-center gap-5 p-10 items-center">
                 <div className="">
                     <div className="">
                         <div className=" flex-col lg:flex-row-reverse">
@@ -31,7 +31,7 @@ const Contact = () => {
                         </div>
                     </div>
                 </div>
-                <div className="w-1/5">
+                <div className="lg:w-1/5">
                     <div>
                         <h1 className="text-3xl font-bold">Feel Free to Contact <br /> Me Anytime</h1>
                     </div>
