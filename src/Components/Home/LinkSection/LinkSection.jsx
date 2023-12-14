@@ -14,7 +14,7 @@ const LinkSection = () => {
                         <h2 className="card-title">My Git Hub Page</h2>
                     </div>
                     <div className="">
-                        <a target="_blank" href="https://github.com/Md-Mansor" className="btn btn-outline btn-accent"><GoArrowRight /></a>
+                        <Link to="https://github.com/Md-Mansor" className="btn btn-outline btn-accent"><GoArrowRight /></Link>
                     </div>
                 </div>
                 <div className="flex justify-between items-center p-5 rounded bg-base-100 gap-5 shadow-xl">
@@ -23,7 +23,7 @@ const LinkSection = () => {
                         <h2 className="card-title">Linkedin Profile</h2>
                     </div>
                     <div className="">
-                        <a target="_blank" href="https://www.linkedin.com/in/md-mansor-105456283/" className="btn btn-outline btn-accent"><GoArrowRight /></a>
+                        <Link to="https://www.linkedin.com/in/md-mansor-105456283/" className="btn btn-outline btn-accent"><GoArrowRight /></Link>
                     </div>
                 </div>
             </div>
